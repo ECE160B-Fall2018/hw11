@@ -4,7 +4,7 @@ Due 11/24/18 at 11:59:59PM.
 Late submissions are subject to a 10% late penalty.  
 
 ## Reading
-Thinking in C++ - 14
+Thinking in C++ - chapter 14
 
 ## Instructions
 
